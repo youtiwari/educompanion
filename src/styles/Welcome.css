@@ -1,0 +1,23 @@
+@keyframes typewriter {
+    0%, 100% {
+      border-right-color: orange; /* Ensures cursor is visible during the animation */
+    }
+    99.9%, 100% {
+      border-right-color: transparent; /* Hides the cursor at the end */
+    }
+    from { 
+      width: 0; 
+    }
+    to { 
+      width: 100%; 
+    }
+  }
+  
+  .typewriter h1 {
+    overflow: hidden;
+    border-right: .15em solid transparent; /* Starts transparent but changes during animation */
+    white-space: nowrap;
+    width: 0;
+    animation: typewriter 2s steps(40, end) forwards; /* Use 'forwards' to persist the final keyframe state */
+  }
+  

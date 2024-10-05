@@ -1,0 +1,35 @@
+This document is a resume for Nishit Poddar. Here is a summary of his qualifications and experience:
+
+* **Education:**
+    * Bachelor of Engineering in Computer Science from Birla Institute of Technology and Science with a CGPA of 8.29/10.0.
+    * XII Percentage: 96.67% from St Lawerence Super Thirty Junior College.
+    * X Percentage: 89.33% from Podar International School.
+
+* **Experience:**
+    * **Software Engineering Intern at Amazon (May 2024 - July 2024):**
+        * Migrated an internal tool from React.js to React with TypeScript to improve efficiency.
+        * Implemented token-based pagination functionality in REST APIs.
+    * **Software Engineering Intern at Apisero (May 2023 - Jul 2023):**
+        * Developed a financial project for creating and managing child bank accounts.
+
+* **Projects:**
+    * **Convex Hull Visualizer (Web Development):** 
+        * Developed a Pacman-style game to visually demonstrate concepts.
+        * Implemented algorithm-specific visualization within a game-like environment.
+    * **Distributed Graph Manager (Operating Systems):**
+        * Simulated a distributed graph database system.
+        * Implemented multithreading to perform DFS, BFS, and concurrency.
+    * **Online Supermarket (Web Development):**
+        * Developed an e-commerce website using Bootstrap and Spring Boot.
+        * Implemented an administrative panel for managing products, categories, and users.
+    * **Property Rental Management (Database Systems):**
+        * Developed a Database Management System using SQL for a Property Rental Agency (PRA).
+        * Implemented features for user registration, property management, and tracking of rental transactions.
+
+* **Skills and Relevant Coursework:**
+    * Technical Proficiency: Python, Javascript, C++, SQL, Java, AWS, React, Spring Boot, JUnit, Git
+    * Subjects: DSA, OOPS, Database Systems, Operating System, Derivatives and Risk Management
+
+* **Publication:**
+    * **INDIFACE: Illuminating India's Deepfake Landscape with a Comprehensive Synthetic Dataset** (Published in IEEE)
+        * Authors: Kartik Kuckreja; Ximi Hoque; Nishit Poddar; Shukesh Reddy; Abhinav Dhall; Abhijit Das. 
